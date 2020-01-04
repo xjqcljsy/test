@@ -1,1 +1,1 @@
-test  外部 compare
+test  测试 compare
